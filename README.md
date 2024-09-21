@@ -1,7 +1,7 @@
 - 👋 Hi, I’m engineering student , persuing Btech CSE (core) from KR Mangalam University 
 - 👀 I’m currently working on my technical skills andfrontend projects  
 - 🌱 I’m currently learning DSA, Competitive Coding.
-- 💞️ I’m looking for help with anything I am cureentlylearning. 
+- 💞️ I’m looking for help with anything I am cureently learning. 
 - 😄 Pronouns: she/her 
 
 <!---
